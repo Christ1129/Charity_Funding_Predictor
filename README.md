@@ -6,9 +6,13 @@
 •	a second optimized in which the hyperparameters were systematically tested used the keras tuner (accuracy of 77%)
 
 ### RESULT
+
 Data Processing
+
 •	EIN and NAME features were dropped from the model.
+
 •	The model's target variable is IS_SUCCESSFUL. APPLICATION data was analyzed and CLASSIFICATION value was used for grouping
+
 •	Each unique value used several data point as a cutoff point to bin categorical variables together in a new value. Categorical variables were encoded by “pd.get_dummies() ”.
 
  ### COMPILING, TRAINING, AND EVALUATING THE MODEL
