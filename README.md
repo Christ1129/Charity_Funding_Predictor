@@ -34,3 +34,10 @@ Data Processing
 ### SUMMARY
 Thanks to the results obtained, the neural model demonstrated decent reliability in predicting the success of charitable organizations. In this sense, Alphabet Soup obtains additional information about charities to fund in the future. You can test other optimizations to be carried out in the future (different pre-processing, additional data, etc.); additional tests (model variance test to check for overfitting) to check the power of the model.
 I would suggest applying a PCA and/or tSNE model during the pre-processing step to reduce the number of features.
+
+<hr>
+Contact : 
+
+* tourteau.christian@gmail.com
+* https://www.linkedin.com/in/christian-tourteau/
+
