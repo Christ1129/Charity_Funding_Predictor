@@ -11,9 +11,15 @@ Data Processing
 •	The model's target variable is IS_SUCCESSFUL. APPLICATION data was analyzed and CLASSIFICATION value was used for grouping
 •	Each unique value used several data point as a cutoff point to bin categorical variables together in a new value. Categorical variables were encoded by “pd.get_dummies() ”.
 
- COMPILING, TRAINING, AND EVALUATING THE MODEL
+ ### COMPILING, TRAINING, AND EVALUATING THE MODEL
+ 
+ <img width="662" alt="define model" src="https://user-images.githubusercontent.com/100292828/185767448-674065ad-69a8-4ee0-a68f-b18034d25152.png">
+
  
 -	As can be seen in the table below, 537 parameters were generated and the model accuracy was achieved at 73%
+
+<img width="463" alt="evaluate" src="https://user-images.githubusercontent.com/100292828/185767509-03aaa105-b789-4957-95ae-54fe20aad55e.png">
+
  
  
 ### OPTIMIZATION
