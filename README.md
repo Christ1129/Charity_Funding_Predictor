@@ -13,13 +13,13 @@ Data Processing
 
  ### COMPILING, TRAINING, AND EVALUATING THE MODEL
  
- <img width="388" alt="params" src="https://user-images.githubusercontent.com/100292828/185767669-69075b04-1193-435b-97dd-0efdaae400fc.png">
-
- 
--	As can be seen in the table below, 537 parameters were generated and the model accuracy was achieved at 73%
 
  <img width="662" alt="define model" src="https://user-images.githubusercontent.com/100292828/185767448-674065ad-69a8-4ee0-a68f-b18034d25152.png">
 
+-	As can be seen in the table below, 537 parameters were generated and the model accuracy was achieved at 73%
+
+ 
+ <img width="388" alt="params" src="https://user-images.githubusercontent.com/100292828/185767669-69075b04-1193-435b-97dd-0efdaae400fc.png">
 <img width="463" alt="evaluate" src="https://user-images.githubusercontent.com/100292828/185767509-03aaa105-b789-4957-95ae-54fe20aad55e.png">
 
  
