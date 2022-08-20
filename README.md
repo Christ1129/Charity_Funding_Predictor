@@ -3,7 +3,7 @@
    The non-profit Alphabet Soup Foundation seeks to predict the best charity funding. Data containing over 34,000 organizations previously funded by Alphabet Soup and their metadata is preprocessed and fed into a deep learning neural network.
 2 strategies were used:
 •	a first in which the hyperparameters of the neural network are predefined and adjusted to the data (accuracy of 73%) and
-•	a second optimized in which the hyperparameters were systematically tested used the keras tuner (accuracy of 77%)
+•	a second optimized in which the hyperparameters were systematically tested used the keras tuner (accuracy of 77%).
 
 ### RESULT
 
